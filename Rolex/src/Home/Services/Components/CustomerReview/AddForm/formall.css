@@ -1,0 +1,89 @@
+.FormAll{
+    height: 300px;
+    width: 500px;
+}
+
+.form-user{
+    display: flex;
+    width: 100%;
+}
+
+.FormRight{
+    display: flex;
+    width: 50%;
+}
+
+.Form{
+    width: 95%;
+}
+
+.Inputs{
+    width: 100%;
+    margin-top: 20px;
+    height: 50px;
+    background: white;
+    border-radius: 2px;
+    border-width: 0.9px;
+    border-style: solid;
+    border-color: rgb(219, 219, 219);
+    align-items: center;
+    justify-content: center;
+}
+.Textinput{
+    width: 90%;
+    border-width: 0px;
+    height: 100%;
+    align-items: center;
+    justify-content:center;
+    margin-left: 10px;
+}
+
+.FormLeft{
+    /* display: flex; */
+    width: 50%;
+}
+
+label{
+    font-size: 12px;
+}
+
+.radio{
+    color: grey ;
+    width: 30px;
+}
+.radio2{
+    width: 30px;
+}
+
+.genderRadio{
+    width: 100%;
+}
+
+.genderLabel{
+    padding-left: 3px;
+}
+
+#job{
+    margin-top: 30px;
+    width: 100%;
+    height: 50px;
+    background: white;
+    border-radius: 2px;
+    border-width: 0.9px;
+    border-style: solid;
+    border-color: rgb(219, 219, 219);
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: rgb(156, 156, 156);
+}
+
+/* .add-user{
+    display: flex;
+} */
+
+#addsuer{
+    margin-top: 30px;
+    width: 120px;
+    border-radius:6px;
+}
